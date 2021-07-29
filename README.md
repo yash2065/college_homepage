@@ -1,2 +1,2 @@
 # foodwebsite
-This is a simple website of menu card of restaurant
+This is a simple home page of my college.
